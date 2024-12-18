@@ -1,0 +1,99 @@
+\documentclass[a4paper,11pt]{report}
+
+
+\usepackage[german]{babel}        % Deutschsprachige Beschriftungen
+\usepackage[utf8]{inputenc}       % Utf8 Zeichensatz
+\usepackage[T1]{fontenc}          % Schriftenkodierung
+\usepackage[lighttt]{lmodern}     % Schriftart
+\usepackage{amsmath}  
+\usepackage{amsfonts}            % Mathematische Formeln
+\usepackage[normalem]{ulem}       % Durchgestrichener Text
+\usepackage{xcolor}               % Farbiger Text
+\usepackage{verbatim}             % Text ohne Formatierung
+\usepackage{listings}             % Code mit Formatierung
+\usepackage{csquotes}             % Kontextsensitive Zitatanlage
+\usepackage{caption}              % Erweiterte Beschriftungen
+\usepackage{subcaption}           % Unterbeschriftungen
+\usepackage{geometry}             % Seitenränder
+\usepackage{setspace}             % Zeilenabstand
+\usepackage{fancyhdr}             % Header und Footer
+\usepackage{graphicx}             % Grafiken
+\usepackage{wrapfig}	
+\usepackage{svg}                  % SVG Grafiken
+\usepackage{booktabs}             % Tabellen
+\usepackage{tabularx}             % Breite von Boxen
+\usepackage[backend=biber, style=apa]{biblatex} % Referenzen
+\usepackage[hidelinks]{hyperref}             % Hyperlinks im PDF-Dokument
+\usepackage{hyperxmp}             % Metadaten im PDF-Dokument
+\usepackage{makeidx}              % Optional, für Glossar (Index)
+\usepackage{siunitx}   
+
+\title{Die experimentelle Bestimmung der Elementarladung}
+\date{\today}
+\author{Samuel Egli}
+\makeatletter            % Erlaubt das Auslesen der obigen Eigenschaften
+\let\papertitle\@title   % Titel in \papertitle speichern
+\let\paperdate\@date     % Datum in \paperdate speichern
+\let\paperauthor\@author % Autor in \paperauthor speichern
+\makeatother
+\def\paperinstitution{Kantonsschule am Burggraben}
+\def\papertype{Maturaarbeit}
+\def\papersupervisor{Dr. Rheinhard Gross}
+
+% ======== START VON SEITENRÄNDER ========= (Seitenränder)
+\geometry{
+	a4paper,
+	total={150mm,237mm},
+	left=30mm,
+	top=30mm,
+}
+\setlength{\headheight}{14pt}
+% ========= ENDE VON SEITENRÄNDER =========
+
+
+\addbibresource{literature.bib}
+
+\begin{document}
+	\input{titlepage_maturaarbeit}
+	
+	% === INHALTSVERZEICHNIS ===
+	\tableofcontents %          \
+	\newpage %                  \
+	% --------------------------
+	
+	% =========== START VON STYLING ===========
+	\onehalfspacing % Zeilenabstand 1.5
+	\renewcommand{\chaptermark}[1]{\markboth{\MakeUppercase{\thechapter.\ #1}}{}} % Kapitel
+	\renewcommand{\sectionmark}[1]{\markright{\thesection.\ #1}{}} % Abschnitt
+	\fancyhead[R]{\rightmark}
+	\fancyhead[L]{\leftmark}
+%	\fancyhead[C]{\thepage{}} % Seitennummer
+	\fancyhead[L]{\leftmark}
+	\fancyhead[R]{\rightmark}
+	\fancyfoot[C]{\thepage{}}
+	\pagestyle{fancy}
+	% =========== ENDE VON STYLING ============
+	
+	\input{einfuerung}
+	\input{theorie}
+	\input{experimentAufbau}
+	\input{durchfuehrung}
+	\input{auswertung}
+	\input{diskussion}
+	\input{fehlerrechnung}
+	\input{fazit}
+	
+	
+	
+	
+	
+	
+	\cleardoublepage
+	\printbibliography
+	
+\end{document}
+
+
+
+
+

@@ -1,0 +1,197 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global}
+    \entry{fundamentum_mathe}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=061e320f60318828c116501dad82f35e}{%
+           family={DMK},
+           familyi={D\bibinitperiod},
+           given={DPK},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {de}%
+      }
+      \list{publisher}{1}{%
+        {Orell Fuessli}%
+      }
+      \strng{namehash}{061e320f60318828c116501dad82f35e}
+      \strng{fullhash}{061e320f60318828c116501dad82f35e}
+      \strng{bibnamehash}{061e320f60318828c116501dad82f35e}
+      \strng{authorbibnamehash}{061e320f60318828c116501dad82f35e}
+      \strng{authornamehash}{061e320f60318828c116501dad82f35e}
+      \strng{authorfullhash}{061e320f60318828c116501dad82f35e}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Fundamentum Mathematik und Physik: Formeln, Begriffe, Tabellen für die Sekundarstufen {I} und {II}}
+      \field{year}{2021}
+    \endentry
+    \entry{instructionManual}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=77577daba570bb5ae7afdda1555db375}{%
+           family={PASCO},
+           familyi={P\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{77577daba570bb5ae7afdda1555db375}
+      \strng{fullhash}{77577daba570bb5ae7afdda1555db375}
+      \strng{bibnamehash}{77577daba570bb5ae7afdda1555db375}
+      \strng{authorbibnamehash}{77577daba570bb5ae7afdda1555db375}
+      \strng{authornamehash}{77577daba570bb5ae7afdda1555db375}
+      \strng{authorfullhash}{77577daba570bb5ae7afdda1555db375}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Millikan Oil Drop Apparatus, AP-8210A}
+      \field{year}{2000}
+    \endentry
+    \entry{dewiki:247237013}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9c677286866aad38f8e9b660f5411814}{%
+           family={Wikipedia},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Online; Stand 13. Oktober 2024}
+      \field{title}{Robert Andrews Millikan --- Wikipedia, die freie Enzyklopädie}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://de.wikipedia.org/w/index.php?title=Robert_Andrews_Millikan&oldid=249265456
+      \endverb
+      \verb{url}
+      \verb https://de.wikipedia.org/w/index.php?title=Robert_Andrews_Millikan&oldid=249265456
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global}
+    \entry{fundamentum_mathe}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=061e320f60318828c116501dad82f35e}{%
+           family={DMK},
+           familyi={D\bibinitperiod},
+           given={DPK},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {de}%
+      }
+      \list{publisher}{1}{%
+        {Orell Fuessli}%
+      }
+      \strng{namehash}{061e320f60318828c116501dad82f35e}
+      \strng{fullhash}{061e320f60318828c116501dad82f35e}
+      \strng{bibnamehash}{061e320f60318828c116501dad82f35e}
+      \strng{authorbibnamehash}{061e320f60318828c116501dad82f35e}
+      \strng{authornamehash}{061e320f60318828c116501dad82f35e}
+      \strng{authorfullhash}{061e320f60318828c116501dad82f35e}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Fundamentum Mathematik und Physik: Formeln, Begriffe, Tabellen für die Sekundarstufen {I} und {II}}
+      \field{year}{2021}
+    \endentry
+    \entry{instructionManual}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=77577daba570bb5ae7afdda1555db375}{%
+           family={PASCO},
+           familyi={P\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{77577daba570bb5ae7afdda1555db375}
+      \strng{fullhash}{77577daba570bb5ae7afdda1555db375}
+      \strng{bibnamehash}{77577daba570bb5ae7afdda1555db375}
+      \strng{authorbibnamehash}{77577daba570bb5ae7afdda1555db375}
+      \strng{authornamehash}{77577daba570bb5ae7afdda1555db375}
+      \strng{authorfullhash}{77577daba570bb5ae7afdda1555db375}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Millikan Oil Drop Apparatus, AP-8210A}
+      \field{year}{2000}
+    \endentry
+    \entry{dewiki:247237013}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9c677286866aad38f8e9b660f5411814}{%
+           family={Wikipedia},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Online; Stand 13. Oktober 2024}
+      \field{title}{Robert Andrews Millikan --- Wikipedia, die freie Enzyklopädie}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://de.wikipedia.org/w/index.php?title=Robert_Andrews_Millikan&oldid=249265456
+      \endverb
+      \verb{url}
+      \verb https://de.wikipedia.org/w/index.php?title=Robert_Andrews_Millikan&oldid=249265456
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
