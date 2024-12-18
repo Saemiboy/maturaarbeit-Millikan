@@ -1,0 +1,8 @@
+# LaTeX generierte Dateien ignorieren
+*.aux
+*.log
+*.bcf
+*.out
+*.run.xml
+*.toc
+*.gz
