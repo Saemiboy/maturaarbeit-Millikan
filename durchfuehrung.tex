@@ -14,6 +14,9 @@ Die Betrachtungskammer sollte jetzt wieder zusammengebaut werden, das Gehäuse a
 Mit dem horizontalen Einstellknopf der Halogenlampe soll das Licht auf der horizontalen Ebene richtig fokussiert werden. Damit das Licht am besten fokussiert ist, muss der rechte Rand des Drahtes am hellsten sein. Das heisst, im grössten Kontrast zur linken Seite des Drahtes stehen. Mit dem vertikalen Einstellungsknopf muss das Licht auf der Mitte des Gitters / Fadenkreuz am besten zu sehen sein. Wenn alles fertig eingerichtet ist, sollte der Fokussierdraht wieder in die Vertiefung in der Platte verschraubt werden.
 
 \section{Funktionen der Steuerung}\label{sec:funktionen}
+\subsection{Kondensatorenspannung Schalter}\label{sub:Spannungsschalter}
+Dieser Schalter ist ein Spannungswechsler der beiden Kondensatoren. Mit diesem Schalter kann die Richtung des Elektrischen Feld $E$ gewechselt werden. Er besitzt auch drei verschiedene Positionen. Die erste, plates grounded, bedeutet, dass keine der beiden Kondensatoren geladen ist, es wirkt dabei keine Kraft auf die Tröpfchen. Die zweite Position ist TOP PLATE -, das bedeutet, dass die obere Platte negativ geladen ist und somit ein elektrisches Feld nach unten zeigt. Die letzte Position ist TOP PLATE +, das bedeutet, dass die obere Platte positiv geladen ist und somit ein Feld nach oben wirkt. 
+
 \subsection{Der Ionisationsquelle Schalter}\label{sub:ionisationquelle}
 Der Schalter für die Ionisation hat 3 verschiedene Positionen. Die An-Position, die Aus-Position und die Tröpfchensprüh-Position. Wenn der Schalter auf der Aus-Position ist, wird die Ionisationsquelle komplett abgeschirmt und es können keine Alphateilchen in die Kammer gestrahlt werden. Bei der An-Position ist dieser Schirm nicht mehr da und die Öltröpchen können angestrahlt werden. Die dritte Position, die Tröpfchensprüh-Position, muss geschaltet werden, wenn die Ölrtöpchen eingesprüht werden. Bei dieser Position öffnet sich ein kleines Loch in der Kammer, damit die Luft ausströmen kann, wenn das Öl eingesprüht wird.
 
@@ -25,5 +28,18 @@ Der Schalter für die Ionisation hat 3 verschiedene Positionen. Die An-Position,
 	\end{center}
 \end{figure}
 
-\subsection{Kondensatorenspannung Schalter}\label{sub:Spannungsschalter}
-lorem ipsum
+\section{Messen und Einstellen der Spannung}\label{sec:spannung}
+Zuerst muss die Gleichstromquelle an die Plattform, über die farbigen Anschlüsse, angeschlossen werden. Das digitale Multimeter kann direkt bei den Kontakten parallel eingebaut werden. Jetzt muss das Multimeter eingeschaltet werden, dabei muss die Gleichstromspannung ausgewählt werden. Wenn die Stromquelle eingeschaltet wird sollte das Multimeter ungefähr 500V anzeigen. Wenn das nicht der Fall ist muss man die Spannung noch richtig einstellen bei der Stromquelle. Wichtig zu wissen ist, dass man keinen elektrischen Schock kriegen kann von den Kondensatoren, da in diesen grosse Widerstände eingebaut sind, die dies vorbeugen.
+
+\section{Temperatur in der Tröpfchenkammer}\label{sec:Temperatur}
+Die letzte Einstellung, die gemacht werden muss, um danach mit dem eigentlichen Experimentieren zu beginnen, ist die Temperatur zu messen innerhalb der Tröpfchenkammer. Die Temperatur braucht man, um die Zähigkeit der Luft herauszufinden. Da man die genaue Temperatur nicht mit einem Thermometer herausfinden kann, kann man über die Beziehung vom elektrischen Widerstand in den Kondensatoren gehen. Den Widerstand wird gleich wie die Spannung gemessen. Auf der Platte hat es Anschlüsse für ein digitales Multimeter, das sollte auf elektrischer Widerstand eingeschaltet werden. Dieser proportionale Zusammenhang kann man auf der Tabelle ablesen. Wichtig ist, dass die Stromquelle nie an die Anschlüsse für den Widerstand angeschlossen werden, weil so das Experiment kaputt gehen könnte. Der Widerstand sollte ungefähr bei 1 - 4 Megaohm sein.
+
+\begin{figure}[ht]
+	\begin{center}
+		\includegraphics[scale=0.25]{bilder/pdf/TemperaturTabelle.pdf}
+		\caption{Abhängigkeit von Temperatur und elektrischer Widerstand}
+		\label{fig:widerstandTemperatur}
+	\end{center}
+\end{figure}
+
+\section{Das Experimentieren}\label{sec:durchfuehrung}
