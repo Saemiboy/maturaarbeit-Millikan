@@ -54,7 +54,7 @@ def format_scientific_to_latex(value):
     Konvertiert einen wissenschaftlichen Wert in LaTeX-kompatibles Format.
     """
     if isinstance(value, (float, int)):
-        return f"{value:.2e}".replace('e', ' \\times 10^{').replace('+', '') + '}'
+        return f"$\\mathrm{{{value:.2e}}}".replace('e', ' \\times 10^{').replace('+', '') + '}$'
     return value
 
 def generate_latex_table(csv_path, latex_path):
