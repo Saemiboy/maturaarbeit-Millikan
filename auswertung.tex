@@ -51,11 +51,62 @@ Wie genau ist ein solches Ergebnis eines Experimentes? Hier ist nun der zweite T
 \subsection{Fehlerrechnung}\label{sub:fehler}
 Zuerst müssen für alle Messgrössen absolute Fehler entschieden werden. Die können abgeschätzt werden oder hängen von der Genauigkeit eines Messgerätes ab.
 
-\begin{center}
-	\begin{tabular}[h]{l|lll}
-		& Messwert & absoluter Fehler & relativer Fehler [\%] \\
-		\toprule
-		Elektrisches Feld [V/m] &
-	\end{tabular}
-\end{center}
+\begin{table}[h]
+	\begin{center}
+		\begin{tabular}{l|lll}
+			                             & Messwert     & absoluter Fehler     & relativer Fehler [\%] \\ \toprule
+			Elektrisches Feld $[V/m]$    & zsmg. Grösse &                      & 0.68\%                \\
+			Steigzeit $[s]$              & 3.7          & 0.1                  & 2.70\%                \\
+			Sinkzeit $[s]$               & 32.6         & 0.1                  & 0.31\%                \\
+			Distanz $[m]$                & 0.0005       & 0.00001              & 2.00\%                \\
+			Steiggeschwindigkeit $[m/s]$ & zsmg. Grösse &                      & 4.70\%                \\
+			Sinkgeschwindigkeit $[m/s]$  & zsmg. Grösse &                      & 2.31\%                \\
+			Luftdruck $[Pa]$             & 94000        & 1000                 & 1.06\%                \\
+			Zähigkeit $[Ns/m^2]$         & 0.00001818   & 0.00000001           & 0.05\%                \\
+			Dichte $[kg/m^3]$            & 886          & 1                    & 0.11\%                \\
+			Fallbeschleunigung $[m/s^2]$ & 9.81         & 0 (vernachlässigbar) & 0.00\%                \\
+			Konstante b                  & 0.0082       & 0.00001              & 0.12\%
+		\end{tabular}
+	\end{center}
+	\caption{Fehlertabelle Messgrössen}
+	\label{tab:messabsFehler}
+\end{table}
+
+\noindent Zuerst der Fehler für den Radius:
+\begin{equation*}\label{eq:fehlerRadius}
+	\begin{split}
+		Fehler_{Radius} & \ = \ \sqrt{\left( \frac{b}{2p}\right)^2 + \frac{9\eta v_f}{2\rho g}} - \frac{b}{2p} \ = \ \sqrt{\frac{9\eta v_f}{2\rho g}} - \frac{b}{2p} \\
+		                & \ = \ \sqrt{\frac{0.05\% \cdot 2.31\%}{0.11\%}} - \frac{0.12\%}{1.06\%} \ = \ 1.24\% - 1.18\%                                              \\
+		                & \ = \ 2.42\%
+	\end{split}
+\end{equation*}
+
+\noindent Dann kommt der Fehler für die Masse:
+\begin{equation*}\label{eq:fehlerMasse}
+	Fehler_{Masse} \ = \ \frac{4}{3} \pi \cdot a^3 \cdot \rho \ = \ (2.42\%)^3 \cdot 0.11\% \ = \ 7.37\%
+\end{equation*}
+
+\noindent Zuletzt noch die Fehlerrechnung für die Ladung:
+\begin{equation*}
+	\begin{split}
+		Fehler_{Ladung} & \ = \ \frac{mg(v_f + v_r)}{Ev_f} \ = \ \frac{7.37\% \cdot (4.70\% + 2.31\%)}{0.68\% \cdot 2.31\%} \\
+		& \ = \ \frac{10.88\%}{2.99\%} \ = \ 13.87\%	
+	\end{split}
+\end{equation*}
+
+\noindent Dieser Fehler für den Radius kann jetzt in dem Ladungsdiagramm berücksichtigt werden. Das Diagramm sieht dann folgendermassen aus:
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=\textwidth]{bilder/pdf/LadungsdiagrammMit.pdf}
+	\caption{Ladungsdiagramm mit Fehlerrechnung}
+	\label{fig:ladungsdiagrammMFehlerrechnung}
+\end{figure}
+
+\subsection{Schlussfolgerung des Ergebnis}\label{sub:schlussfolgerung}
+Mit diesem Schritt ist das Ergebnis des Millikan-Versuchs komplett abgeschlossen. Man sieht mithilfe des Diagramms mit Fehler, dass alle Tröpfchen einer Ladungsstufe zugeteilt werden können. Das hätte man nie gedacht während dem Experimentieren. Es ist unglaublich zu sehen, wie man von vielen verschiedenen Messgrössen, die alle einen Fehler aufweisen, auf einen Wert kommt mit 19 Stellen hinter dem Komma, der ungefähr in dieser Grössenordnung bleibt und nie ausschiesst während dem Auswerten der verschiedenen Messungen.
+
+
+
+
 \input{daten/radiusMasseLadung.tex}
