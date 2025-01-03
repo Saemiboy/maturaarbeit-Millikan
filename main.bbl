@@ -50,6 +50,38 @@
       \field{title}{Fundamentum Mathematik und Physik: Formeln, Begriffe, Tabellen für die Sekundarstufen {I} und {II}}
       \field{year}{2021}
     \endentry
+    \entry{Inc_2024}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fcb59298af1916af77f4a554f2f6ad99}{%
+           family={Inc},
+           familyi={I\bibinitperiod},
+           given={NumFOCUS},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fcb59298af1916af77f4a554f2f6ad99}
+      \strng{fullhash}{fcb59298af1916af77f4a554f2f6ad99}
+      \strng{bibnamehash}{fcb59298af1916af77f4a554f2f6ad99}
+      \strng{authorbibnamehash}{fcb59298af1916af77f4a554f2f6ad99}
+      \strng{authornamehash}{fcb59298af1916af77f4a554f2f6ad99}
+      \strng{authorfullhash}{fcb59298af1916af77f4a554f2f6ad99}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{User Guide - pandas 2.2.3 documentation}
+      \field{title}{User guide}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://pandas.pydata.org/docs/user_guide/index.html
+      \endverb
+      \verb{url}
+      \verb https://pandas.pydata.org/docs/user_guide/index.html
+      \endverb
+    \endentry
     \entry{instructionManual}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=77577daba570bb5ae7afdda1555db375}{%
@@ -136,6 +168,38 @@
       \field{labeltitlesource}{title}
       \field{title}{Fundamentum Mathematik und Physik: Formeln, Begriffe, Tabellen für die Sekundarstufen {I} und {II}}
       \field{year}{2021}
+    \endentry
+    \entry{Inc_2024}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fcb59298af1916af77f4a554f2f6ad99}{%
+           family={Inc},
+           familyi={I\bibinitperiod},
+           given={NumFOCUS},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fcb59298af1916af77f4a554f2f6ad99}
+      \strng{fullhash}{fcb59298af1916af77f4a554f2f6ad99}
+      \strng{bibnamehash}{fcb59298af1916af77f4a554f2f6ad99}
+      \strng{authorbibnamehash}{fcb59298af1916af77f4a554f2f6ad99}
+      \strng{authornamehash}{fcb59298af1916af77f4a554f2f6ad99}
+      \strng{authorfullhash}{fcb59298af1916af77f4a554f2f6ad99}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{User Guide - pandas 2.2.3 documentation}
+      \field{title}{User guide}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://pandas.pydata.org/docs/user_guide/index.html
+      \endverb
+      \verb{url}
+      \verb https://pandas.pydata.org/docs/user_guide/index.html
+      \endverb
     \endentry
     \entry{instructionManual}{book}{}
       \name{author}{1}{}{%
