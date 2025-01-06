@@ -73,6 +73,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{User Guide - pandas 2.2.3 documentation}
+      \field{note}{Abgerufen am 03. Januar 2025}
       \field{title}{User guide}
       \field{year}{2024}
       \verb{urlraw}
@@ -126,7 +127,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{Online; Stand 13. Oktober 2024}
+      \field{note}{Abgerufen am 13. Oktober 2024}
       \field{title}{Robert Andrews Millikan --- Wikipedia, die freie Enzyklopädie}
       \field{year}{2024}
       \verb{urlraw}
@@ -192,6 +193,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{User Guide - pandas 2.2.3 documentation}
+      \field{note}{Abgerufen am 03. Januar 2025}
       \field{title}{User guide}
       \field{year}{2024}
       \verb{urlraw}
@@ -245,7 +247,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{Online; Stand 13. Oktober 2024}
+      \field{note}{Abgerufen am 13. Oktober 2024}
       \field{title}{Robert Andrews Millikan --- Wikipedia, die freie Enzyklopädie}
       \field{year}{2024}
       \verb{urlraw}
