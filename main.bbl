@@ -205,6 +205,35 @@
       \verb https://de.wikipedia.org/w/index.php?title=Robert_Andrews_Millikan&oldid=249265456
       \endverb
     \endentry
+    \entry{enwiki:1263773841}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b6aea1a416c89509a7df1cbb69249cb6}{%
+           family={{Wikipedia contributors}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{fullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{bibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorbibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authornamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorfullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Abgerufen am 08. Januar 2025}
+      \field{title}{Quark --- {Wikipedia}{,} The Free Encyclopedia}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/w/index.php?title=Quark&oldid=1263773841
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/w/index.php?title=Quark&oldid=1263773841
+      \endverb
+    \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global}
     \entry{instructionManualHalogen}{manual}{}
@@ -391,6 +420,35 @@
       \endverb
       \verb{url}
       \verb https://de.wikipedia.org/w/index.php?title=Robert_Andrews_Millikan&oldid=249265456
+      \endverb
+    \endentry
+    \entry{enwiki:1263773841}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b6aea1a416c89509a7df1cbb69249cb6}{%
+           family={{Wikipedia contributors}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{fullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{bibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorbibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authornamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorfullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Abgerufen am 08. Januar 2025}
+      \field{title}{Quark --- {Wikipedia}{,} The Free Encyclopedia}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/w/index.php?title=Quark&oldid=1263773841
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/w/index.php?title=Quark&oldid=1263773841
       \endverb
     \endentry
   \enddatalist
