@@ -19,6 +19,38 @@
 
 \refsection{0}
   \datalist[entry]{apa/apasortcite//global/global}
+    \entry{wiki:xxx}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=93d707cc77f037fd02e1c8cfa75317cf}{%
+           family={Commons},
+           familyi={C\bibinitperiod},
+           given={Wikimedia},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{fullhash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{bibnamehash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{authorbibnamehash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{authornamehash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{authorfullhash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Abgerufen am 10. Oktober 2024, Lizenz: CC-BY-SA 4.0}
+      \field{title}{File:Millikan-experiment-floating-simple.svg --- Wikimedia Commons{,} the free media repository}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://commons.wikimedia.org/w/index.php?title=File:Millikan-experiment-floating-simple.svg&oldid=698327612
+      \endverb
+      \verb{url}
+      \verb https://commons.wikimedia.org/w/index.php?title=File:Millikan-experiment-floating-simple.svg&oldid=698327612
+      \endverb
+    \endentry
     \entry{fundamentum_mathe}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=061e320f60318828c116501dad82f35e}{%
@@ -139,6 +171,38 @@
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global}
+    \entry{wiki:xxx}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=93d707cc77f037fd02e1c8cfa75317cf}{%
+           family={Commons},
+           familyi={C\bibinitperiod},
+           given={Wikimedia},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{fullhash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{bibnamehash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{authorbibnamehash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{authornamehash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{authorfullhash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Abgerufen am 10. Oktober 2024, Lizenz: CC-BY-SA 4.0}
+      \field{title}{File:Millikan-experiment-floating-simple.svg --- Wikimedia Commons{,} the free media repository}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://commons.wikimedia.org/w/index.php?title=File:Millikan-experiment-floating-simple.svg&oldid=698327612
+      \endverb
+      \verb{url}
+      \verb https://commons.wikimedia.org/w/index.php?title=File:Millikan-experiment-floating-simple.svg&oldid=698327612
+      \endverb
+    \endentry
     \entry{fundamentum_mathe}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=061e320f60318828c116501dad82f35e}{%
