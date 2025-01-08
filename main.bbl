@@ -19,6 +19,38 @@
 
 \refsection{0}
   \datalist[entry]{apa/apasortcite//global/global}
+    \entry{instructionManualHalogen}{manual}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a65d50f5cfafcdecbd611013431fe259}{%
+           family={Bishop},
+           familyi={B\bibinitperiod},
+           given={Sunny},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{organization}{1}{%
+        {PASCO scientific}%
+      }
+      \strng{namehash}{a65d50f5cfafcdecbd611013431fe259}
+      \strng{fullhash}{a65d50f5cfafcdecbd611013431fe259}
+      \strng{bibnamehash}{a65d50f5cfafcdecbd611013431fe259}
+      \strng{authorbibnamehash}{a65d50f5cfafcdecbd611013431fe259}
+      \strng{authornamehash}{a65d50f5cfafcdecbd611013431fe259}
+      \strng{authorfullhash}{a65d50f5cfafcdecbd611013431fe259}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{AP-8210}
+      \field{title}{Millikan Oil Drop Apparatus Instruction Manual}
+      \field{year}{2000}
+    \endentry
     \entry{wiki:xxx}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=93d707cc77f037fd02e1c8cfa75317cf}{%
@@ -41,7 +73,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{Abgerufen am 10. Oktober 2024, Lizenz: CC-BY-SA 4.0}
+      \field{note}{Abgerufen am 08. Januar 2025, Lizenz: CC-BY-SA 4.0}
       \field{title}{File:Millikan-experiment-floating-simple.svg --- Wikimedia Commons{,} the free media repository}
       \field{year}{2022}
       \verb{urlraw}
@@ -115,7 +147,7 @@
       \verb https://pandas.pydata.org/docs/user_guide/index.html
       \endverb
     \endentry
-    \entry{instructionManual}{book}{}
+    \entry{instructionManual}{manual}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=77577daba570bb5ae7afdda1555db375}{%
            family={PASCO},
@@ -123,6 +155,9 @@
       }
       \list{language}{1}{%
         {en}%
+      }
+      \list{organization}{1}{%
+        {PASCO scientific}%
       }
       \strng{namehash}{77577daba570bb5ae7afdda1555db375}
       \strng{fullhash}{77577daba570bb5ae7afdda1555db375}
@@ -137,7 +172,8 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Millikan Oil Drop Apparatus, AP-8210A}
+      \field{edition}{AP-8210A}
+      \field{title}{Millikan Oil Drop Apparatus Instruction Manual}
       \field{year}{2000}
     \endentry
     \entry{dewiki:247237013}{misc}{}
@@ -171,6 +207,38 @@
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global}
+    \entry{instructionManualHalogen}{manual}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a65d50f5cfafcdecbd611013431fe259}{%
+           family={Bishop},
+           familyi={B\bibinitperiod},
+           given={Sunny},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{organization}{1}{%
+        {PASCO scientific}%
+      }
+      \strng{namehash}{a65d50f5cfafcdecbd611013431fe259}
+      \strng{fullhash}{a65d50f5cfafcdecbd611013431fe259}
+      \strng{bibnamehash}{a65d50f5cfafcdecbd611013431fe259}
+      \strng{authorbibnamehash}{a65d50f5cfafcdecbd611013431fe259}
+      \strng{authornamehash}{a65d50f5cfafcdecbd611013431fe259}
+      \strng{authorfullhash}{a65d50f5cfafcdecbd611013431fe259}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{AP-8210}
+      \field{title}{Millikan Oil Drop Apparatus Instruction Manual}
+      \field{year}{2000}
+    \endentry
     \entry{wiki:xxx}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=93d707cc77f037fd02e1c8cfa75317cf}{%
@@ -193,7 +261,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{Abgerufen am 10. Oktober 2024, Lizenz: CC-BY-SA 4.0}
+      \field{note}{Abgerufen am 08. Januar 2025, Lizenz: CC-BY-SA 4.0}
       \field{title}{File:Millikan-experiment-floating-simple.svg --- Wikimedia Commons{,} the free media repository}
       \field{year}{2022}
       \verb{urlraw}
@@ -267,7 +335,7 @@
       \verb https://pandas.pydata.org/docs/user_guide/index.html
       \endverb
     \endentry
-    \entry{instructionManual}{book}{}
+    \entry{instructionManual}{manual}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=77577daba570bb5ae7afdda1555db375}{%
            family={PASCO},
@@ -275,6 +343,9 @@
       }
       \list{language}{1}{%
         {en}%
+      }
+      \list{organization}{1}{%
+        {PASCO scientific}%
       }
       \strng{namehash}{77577daba570bb5ae7afdda1555db375}
       \strng{fullhash}{77577daba570bb5ae7afdda1555db375}
@@ -289,7 +360,8 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Millikan Oil Drop Apparatus, AP-8210A}
+      \field{edition}{AP-8210A}
+      \field{title}{Millikan Oil Drop Apparatus Instruction Manual}
       \field{year}{2000}
     \endentry
     \entry{dewiki:247237013}{misc}{}
