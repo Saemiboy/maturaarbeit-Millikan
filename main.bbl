@@ -147,6 +147,36 @@
       \verb https://pandas.pydata.org/docs/user_guide/index.html
       \endverb
     \endentry
+    \entry{github_repo}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8bf1764576cc8bed9a6132cdd49c08d6}{%
+           family={ivo-bloechliger},
+           familyi={i\bibinithyphendelim b\bibinitperiod}}}%
+      }
+      \strng{namehash}{8bf1764576cc8bed9a6132cdd49c08d6}
+      \strng{fullhash}{8bf1764576cc8bed9a6132cdd49c08d6}
+      \strng{bibnamehash}{8bf1764576cc8bed9a6132cdd49c08d6}
+      \strng{authorbibnamehash}{8bf1764576cc8bed9a6132cdd49c08d6}
+      \strng{authornamehash}{8bf1764576cc8bed9a6132cdd49c08d6}
+      \strng{authorfullhash}{8bf1764576cc8bed9a6132cdd49c08d6}
+      \field{sortinit}{i}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Abgerufen am 30. August 2024}
+      \field{title}{matura-arbeit-vorlage-latex}
+      \field{year}{2024}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://github.com/techlabksbg/matura-arbeit-vorlage-latex
+      \endverb
+      \verb{url}
+      \verb https://github.com/techlabksbg/matura-arbeit-vorlage-latex
+      \endverb
+    \endentry
     \entry{instructionManual}{manual}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=77577daba570bb5ae7afdda1555db375}{%
@@ -362,6 +392,36 @@
       \endverb
       \verb{url}
       \verb https://pandas.pydata.org/docs/user_guide/index.html
+      \endverb
+    \endentry
+    \entry{github_repo}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8bf1764576cc8bed9a6132cdd49c08d6}{%
+           family={ivo-bloechliger},
+           familyi={i\bibinithyphendelim b\bibinitperiod}}}%
+      }
+      \strng{namehash}{8bf1764576cc8bed9a6132cdd49c08d6}
+      \strng{fullhash}{8bf1764576cc8bed9a6132cdd49c08d6}
+      \strng{bibnamehash}{8bf1764576cc8bed9a6132cdd49c08d6}
+      \strng{authorbibnamehash}{8bf1764576cc8bed9a6132cdd49c08d6}
+      \strng{authornamehash}{8bf1764576cc8bed9a6132cdd49c08d6}
+      \strng{authorfullhash}{8bf1764576cc8bed9a6132cdd49c08d6}
+      \field{sortinit}{i}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Abgerufen am 30. August 2024}
+      \field{title}{matura-arbeit-vorlage-latex}
+      \field{year}{2024}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://github.com/techlabksbg/matura-arbeit-vorlage-latex
+      \endverb
+      \verb{url}
+      \verb https://github.com/techlabksbg/matura-arbeit-vorlage-latex
       \endverb
     \endentry
     \entry{instructionManual}{manual}{}
