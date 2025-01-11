@@ -177,6 +177,108 @@
       \verb https://github.com/techlabksbg/matura-arbeit-vorlage-latex
       \endverb
     \endentry
+    \entry{lernhelferElementarladungPhysik}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=25297a5c1d828f43c195f2d93361b49c}{%
+           family={Lernhelfer},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{25297a5c1d828f43c195f2d93361b49c}
+      \strng{fullhash}{25297a5c1d828f43c195f2d93361b49c}
+      \strng{bibnamehash}{25297a5c1d828f43c195f2d93361b49c}
+      \strng{authorbibnamehash}{25297a5c1d828f43c195f2d93361b49c}
+      \strng{authornamehash}{25297a5c1d828f43c195f2d93361b49c}
+      \strng{authorfullhash}{25297a5c1d828f43c195f2d93361b49c}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Abgerufen am 13. Oktober 2024}
+      \field{title}{Elementarladung}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.lernhelfer.de/schuelerlexikon/physik/artikel/elementarladung#
+      \endverb
+      \verb{url}
+      \verb https://www.lernhelfer.de/schuelerlexikon/physik/artikel/elementarladung#
+      \endverb
+    \endentry
+    \entry{PhysRevSeriesI.32.349}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=aa572ec2d21584668527460feea6f984}{%
+           family={Millikan},
+           familyi={M\bibinitperiod},
+           given={R.\bibnamedelimi A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{namehash}{aa572ec2d21584668527460feea6f984}
+      \strng{fullhash}{aa572ec2d21584668527460feea6f984}
+      \strng{bibnamehash}{aa572ec2d21584668527460feea6f984}
+      \strng{authorbibnamehash}{aa572ec2d21584668527460feea6f984}
+      \strng{authornamehash}{aa572ec2d21584668527460feea6f984}
+      \strng{authorfullhash}{aa572ec2d21584668527460feea6f984}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{4}
+      \field{journaltitle}{Phys. Rev. (Series I)}
+      \field{month}{4}
+      \field{note}{\url{https://authors.library.caltech.edu/records/c4xaf-k2f12/files/MILpr11b.pdf?download=1}, Abgerufen am 10. Januar 2025}
+      \field{title}{The Isolation of an Ion, a Precision Measurement of its Charge, and the Correction of Stokes's Law}
+      \field{volume}{32}
+      \field{year}{1911}
+      \field{pages}{349\bibrangedash 397}
+      \range{pages}{49}
+      \verb{doi}
+      \verb 10.1103/PhysRevSeriesI.32.349
+      \endverb
+      \verb{urlraw}
+      \verb https://link.aps.org/doi/10.1103/PhysRevSeriesI.32.349
+      \endverb
+      \verb{url}
+      \verb https://link.aps.org/doi/10.1103/PhysRevSeriesI.32.349
+      \endverb
+    \endentry
+    \entry{chatGPTMethodenBestimmung}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0523b13262b12c215d8009938f5c14f1}{%
+           family={OpenAI},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{fullhash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{bibnamehash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{authorbibnamehash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{authornamehash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{authorfullhash}{0523b13262b12c215d8009938f5c14f1}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Abgerufen am 13. Oktober 2024, Prompt: 2 weitere Methoden zur experimentellen Bestimmung der Elementarladung als der Millikan versuch}
+      \field{title}{ChatGPT 4.0}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://chatgpt.com/
+      \endverb
+      \verb{url}
+      \verb https://chatgpt.com/
+      \endverb
+    \endentry
     \entry{instructionManual}{manual}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=77577daba570bb5ae7afdda1555db375}{%
@@ -422,6 +524,108 @@
       \endverb
       \verb{url}
       \verb https://github.com/techlabksbg/matura-arbeit-vorlage-latex
+      \endverb
+    \endentry
+    \entry{lernhelferElementarladungPhysik}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=25297a5c1d828f43c195f2d93361b49c}{%
+           family={Lernhelfer},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{25297a5c1d828f43c195f2d93361b49c}
+      \strng{fullhash}{25297a5c1d828f43c195f2d93361b49c}
+      \strng{bibnamehash}{25297a5c1d828f43c195f2d93361b49c}
+      \strng{authorbibnamehash}{25297a5c1d828f43c195f2d93361b49c}
+      \strng{authornamehash}{25297a5c1d828f43c195f2d93361b49c}
+      \strng{authorfullhash}{25297a5c1d828f43c195f2d93361b49c}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Abgerufen am 13. Oktober 2024}
+      \field{title}{Elementarladung}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.lernhelfer.de/schuelerlexikon/physik/artikel/elementarladung#
+      \endverb
+      \verb{url}
+      \verb https://www.lernhelfer.de/schuelerlexikon/physik/artikel/elementarladung#
+      \endverb
+    \endentry
+    \entry{PhysRevSeriesI.32.349}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=aa572ec2d21584668527460feea6f984}{%
+           family={Millikan},
+           familyi={M\bibinitperiod},
+           given={R.\bibnamedelimi A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{namehash}{aa572ec2d21584668527460feea6f984}
+      \strng{fullhash}{aa572ec2d21584668527460feea6f984}
+      \strng{bibnamehash}{aa572ec2d21584668527460feea6f984}
+      \strng{authorbibnamehash}{aa572ec2d21584668527460feea6f984}
+      \strng{authornamehash}{aa572ec2d21584668527460feea6f984}
+      \strng{authorfullhash}{aa572ec2d21584668527460feea6f984}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{4}
+      \field{journaltitle}{Phys. Rev. (Series I)}
+      \field{month}{4}
+      \field{note}{\url{https://authors.library.caltech.edu/records/c4xaf-k2f12/files/MILpr11b.pdf?download=1}, Abgerufen am 10. Januar 2025}
+      \field{title}{The Isolation of an Ion, a Precision Measurement of its Charge, and the Correction of Stokes's Law}
+      \field{volume}{32}
+      \field{year}{1911}
+      \field{pages}{349\bibrangedash 397}
+      \range{pages}{49}
+      \verb{doi}
+      \verb 10.1103/PhysRevSeriesI.32.349
+      \endverb
+      \verb{urlraw}
+      \verb https://link.aps.org/doi/10.1103/PhysRevSeriesI.32.349
+      \endverb
+      \verb{url}
+      \verb https://link.aps.org/doi/10.1103/PhysRevSeriesI.32.349
+      \endverb
+    \endentry
+    \entry{chatGPTMethodenBestimmung}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0523b13262b12c215d8009938f5c14f1}{%
+           family={OpenAI},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{fullhash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{bibnamehash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{authorbibnamehash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{authornamehash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{authorfullhash}{0523b13262b12c215d8009938f5c14f1}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Abgerufen am 13. Oktober 2024, Prompt: 2 weitere Methoden zur experimentellen Bestimmung der Elementarladung als der Millikan versuch}
+      \field{title}{ChatGPT 4.0}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://chatgpt.com/
+      \endverb
+      \verb{url}
+      \verb https://chatgpt.com/
       \endverb
     \endentry
     \entry{instructionManual}{manual}{}

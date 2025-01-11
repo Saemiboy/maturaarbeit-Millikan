@@ -29,6 +29,7 @@
 \usepackage{hyperxmp}             % Metadaten im PDF-Dokument
 \usepackage{makeidx}              % Optional, für Glossar (Index)
 \usepackage{siunitx}   
+\usepackage{pdfpages}
 
 \title{Die experimentelle Bestimmung der Elementarladung}
 \date{\today}
@@ -58,13 +59,17 @@
 \begin{document}
 	\input{titlepage_maturaarbeit}
 	
+	\onehalfspacing	
+	\input{vorwort}
+	\addcontentsline{toc}{chapter}{Vorwort}
+	
 	% === INHALTSVERZEICHNIS ===
 	\tableofcontents %          \
 	\newpage %                  \
 	% --------------------------
 	
 	% =========== START VON STYLING ===========
-	\onehalfspacing % Zeilenabstand 1.5
+ % Zeilenabstand 1.5
 	\renewcommand{\chaptermark}[1]{\markboth{\MakeUppercase{\thechapter.\ #1}}{}} % Kapitel
 	\renewcommand{\sectionmark}[1]{\markright{\thesection.\ #1}{}} % Abschnitt
 	\fancyhead[R]{\rightmark}
@@ -76,7 +81,8 @@
 	\pagestyle{fancy}
 	% =========== ENDE VON STYLING ============
 	
-	\input{einfuerung}
+	\input{einleitung}
+	%\input{einfuerung}
 	\input{theorie}
 	\input{experimentAufbau}
 	\input{durchfuehrung}
@@ -92,6 +98,11 @@
 	\nocite{github_repo}
 	\printbibliography
 	\input{ki}
+	
+	\appendix
+	\newpage
+	\chapter{Dokumente}
+	\includepdf[landscape=true]{Anhang/Messtabelle_Anhang}
 	\input{eigenstandigkeit}
 	
 \end{document}
