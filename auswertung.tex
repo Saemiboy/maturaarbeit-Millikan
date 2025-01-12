@@ -1,8 +1,10 @@
 \chapter{Auswertung}\label{cha:auswertung}
-\section{Ausgehobene Daten}\label{sec:aushebungDaten}
-Dieses Kapitel befasst sich mit der Genauigkeit der Bestimmung der Elementarladung. Zunächst wird ein Überblick auf die im Experiment erhaltenen Daten gegeben. In \autoref{tab:ergebnisse} sind die relevanten Messgrössen aufgeführt, nämlich die Steig- und Fallgeschwindigkeiten, der Radius, die Masse sowie die Ladung der Tröpfchen. Eine vollständige Übersicht der Messwerte ist im Anhang zu finden, wobei auch Messungen, die nicht ausreichend präzise waren, berücksichtigt werden. Diese wurden jedoch nicht in den Berechnungen einbezogen.
+Dieses Kapitel befasst sich mit der Genauigkeit der Bestimmung der Elementarladung. Zunächst wird ein Überblick auf die im Experiment erhaltenen Daten gegeben. In \autoref{tab:ergebnisse} sind die relevanten Messgrössen aufgeführt, nämlich die Steig- und Fallgeschwindigkeiten, der Radius, die Masse sowie die Ladung der Tröpfchen. Eine vollständige Übersicht der \textbf{Messwerte ist im Anhang zu finden}, wobei auch Messungen, die nicht ausreichend präzise waren, berücksichtigt werden. Diese wurden jedoch nicht in den Berechnungen einbezogen.
 
-Die Daten können nun in einem Punktdiagramm visualisiert werden, wobei die Y-Achse die Ladung der Tröpfchen und die X-Achse die jeweilige Nummer der Messung darstellt. Das Diagramm wurde mit Microsoft Excel erstellt und wird im Folgendem dargestellt.
+In der Fehlerrechnung (\autoref{sub:fehler}) wurde die Maturaarbeit von Herr Brenner \parencite{maturaarbeitBrenner} zur Hilfestellung der Funktionsweise einer Fehlerrechnung dazugezogen.
+
+\section{Ausgehobene Daten}\label{sec:aushebungDaten}
+Die Daten können nun in einem Punktdiagramm eingefügt werden, wobei die Y-Achse die Ladung der Tröpfchen und die X-Achse die jeweilige Nummer der Messung darstellt. Das Diagramm wurde mit Microsoft Excel erstellt und wird im Folgendem dargestellt.
 
 \begin{figure}[h]
 	\centering
@@ -11,7 +13,7 @@ Die Daten können nun in einem Punktdiagramm visualisiert werden, wobei die Y-Ac
 	\label{fig:ladungsdiagrammOFehlerrechnung}
 \end{figure}
 
-\noindent Die Abstände auf der Y-Achse sind nicht zufällig gewählt, sondern entsprechen exakt einer Elementarladung. Anhand dieses Diagramms kann die Anzahl der Elementarladungen jedes einzelnen Tröpfchens abgelesen werden. Es war überraschend, wie präzise das Experiment verlief. Die Ladungen der Tröpfchen ordnen sich klar in Stufen, was während des Experimentierens nicht zu erwarten war. Weitere Details zur Genauigkeit der Messungen werden in \autoref{sec:genauigkeitAuswertung} behandelt, indem eine Fehlerrechnung zur Bewertung der Resultate gemacht wird. Während des gesamten Experiments traten keine unplausiblen Werte auf, die eine deutlich zu hohe oder niedrige Ladung anzeigten. Dies war besonders überraschend, da das Experiment von einer Vielzahl unterschiedlicher Faktoren und Messgrössen abhängt.
+\noindent Die Abstände auf der Y-Achse sind nicht zufällig gewählt, sondern entsprechen exakt einer Elementarladung. Anhand dieses Diagramms kann die Anzahl der Elementarladungen jedes einzelnen Tröpfchens abgelesen werden. Es war überraschend, wie präzise das Experiment verlief. Die Ladungen der Tröpfchen ordnen sich klar in Stufen, was während des Experimentierens nicht zu erwarten war. Weitere Details zur Genauigkeit der Messungen werden in \autoref{sec:genauigkeitAuswertung} behandelt, indem eine Fehlerrechnung zur Bewertung der Resultate gemacht wird. 
 
 \section{Das Ergebnis}\label{sec:ergebnis}
 In \autoref{tab:ergebnisse} kann nun eine weitere Spalte eingefügt werden, die die Anzahl der Elementarladungen $n$ angibt. Nachdem diese hinzugefügt wurde, sieht die Tabelle für die ersten 10 Zeilen wie folgt aus:
@@ -48,7 +50,7 @@ Wenn dieser Vorgang für alle Werte in der Tabelle wiederholt wird, ergibt sich 
 \end{equation}
 
 \section{Die Genauigkeit}\label{sec:genauigkeitAuswertung}
-Die Genauigkeit eines solchen Experimentes kann nur durch eine gründliche Fehleranalyse bewertet werden. Im Folgenden wird die Fehlerrechnung erläutert, um den Einfluss der Fehlerquellen auf das Ergebnis zu quantifizieren. Für jede relevante Grösse wird sowohl der absolute als auch der relative Fehler berechnet. Diese Fehler werden anschliessend miteinander kombiniert, um die Gesamtunsicherheit der Messergebnisse zu ermitteln.
+Die Genauigkeit eines solchen Experimentes kann nur durch eine gründliche Fehlerrechnung bewertet werden. Im Folgenden wird die Fehlerrechnung erläutert, um den Einfluss der Fehlerquellen auf das Ergebnis hervorzuheben. Für jede relevante Grösse wird sowohl der absolute als auch der relative Fehler berechnet. Diese Fehler werden anschliessend miteinander kombiniert, um die Gesamtunsicherheit der Messergebnisse zu ermitteln.
 
 In jedem Experiment treten Fehler auf, die entweder durch die Messinstrumente oder durch den Experimentieraufbau verursacht werden. Ein Beispiel für solche systematischen Fehler ist die mögliche Fehlkalibrierung des Multimeters oder eine ungenaue Erstellung des Fadenkreuz, bei dem die Gitternetzlinien nicht exakt 0,5 mm voneinander entfernt sind. Systematische Fehler können durch präzise Kalibrierung der Geräte und sorgfältige Vorbereitung des Experiments minimiert werden.
 
@@ -70,7 +72,7 @@ Zuerst müssen für alle Messgrössen die absoluten Fehler festgelegt werden. Di
 			Luftdruck $[Pa]$             & 94000        & 1000                 & 1.06\%                \\
 			Zähigkeit $[Ns/m^2]$         & 0.00001818   & 0.00000001           & 0.05\%                \\
 			Dichte $[kg/m^3]$            & 886          & 1                    & 0.11\%                \\
-			Fallbeschleunigung $[m/s^2]$ & 9.81         & 0 (vernachlässigbar) & 0.00\%                \\
+			Fallbeschleunigung $[m/s^2]$ & 9.81         & 0.05 & 0.51\%                \\
 			Konstante b                  & 0.0082       & 0.00001              & 0.12\%
 		\end{tabular}
 	\end{center}
@@ -82,21 +84,21 @@ Zuerst müssen für alle Messgrössen die absoluten Fehler festgelegt werden. Di
 \begin{equation*}\label{eq:fehlerRadius}
 	\begin{split}
 		Fehler_{Radius} & \ = \ \sqrt{\left( \frac{b}{2p}\right)^2 + \frac{9\eta v_f}{2\rho g}} - \frac{b}{2p} \ = \ \sqrt{\frac{9\eta v_f}{2\rho g}} - \frac{b}{2p} \\
-		                & \ = \ \sqrt{\frac{0.05\% \cdot 2.31\%}{0.11\%}} - \frac{0.12\%}{1.06\%} \ = \ 1.24\% - 1.18\%                                              \\
-		                & \ = \ 2.42\%
+		                & \ = \ \sqrt{\frac{0.05\% \cdot 2.31\%}{0.11\% \cdot 0.51\%}} - \frac{0.12\%}{1.06\%} \ = \ 1.49\% - 1.18\%                                              \\
+		                & \ = \ 2.67\%
 	\end{split}
 \end{equation*}
 
 \noindent Anschliessend kommt der Fehler für die Masse:
 \begin{equation*}\label{eq:fehlerMasse}
-	Fehler_{Masse} \ = \ \frac{4}{3} \pi \cdot a^3 \cdot \rho \ = \ (2.42\%)^3 \cdot 0.11\% \ = \ 7.37\%
+	Fehler_{Masse} \ = \ \frac{4}{3} \pi \cdot a^3 \cdot \rho \ = \ (2.67\%)^3 \cdot 0.11\% \ = \ 8.12\%
 \end{equation*}
 
 \noindent Zuletzt erfolgt die Fehlerrechnung für die Ladung:
 \begin{equation*}
 	\begin{split}
-		Fehler_{Ladung} & \ = \ \frac{mg(v_f + v_r)}{Ev_f} \ = \ \frac{7.37\% \cdot (4.70\% + 2.31\%)}{0.68\% \cdot 2.31\%} \\
-		& \ = \ \frac{10.88\%}{2.99\%} \ = \ 13.87\%	
+		Fehler_{Ladung} & \ = \ \frac{mg(v_f + v_r)}{Ev_f} \ = \ \frac{8.12\% \cdot (4.70\% + 2.31\%)}{0.68\% \cdot 2.31\%} \\
+		& \ = \ \frac{11.63\%}{2.99\%} \ = \ 14.62\%	
 	\end{split}
 \end{equation*}
 
@@ -110,6 +112,8 @@ Zuerst müssen für alle Messgrössen die absoluten Fehler festgelegt werden. Di
 \end{figure}
 
 \subsection{Schlussfolgerung des Ergebnis}\label{sub:schlussfolgerung}
+Während des gesamten Experiments traten keine unplausiblen Werte auf, die eine deutlich zu hohe oder niedrige Ladung anzeigten. 
+
 Mit diesem Schritt wird das Ergebnis des Millikan-Versuchs vollständig abgeschlossen. Das Diagramm, das zusammen mit den Fehlerberechnungen erstellt wurde, zeigt deutlich, dass alle Tröpfchen einer bestimmten Ladungsstufe zugeordnet werden können. Dies war während des Experiments zunächst nicht abzusehen. Erstaunlich ist, dass trotz der Vielzahl an Messgrössen, die jeweils mit unterschiedlichen Fehlerquellen behaftet sind, der berechnete Wert mit 19 Dezimalstellen konstant bleibt und im Bereich der theoretisch erwarteten Elementarladung liegt. Dies verdeutlicht die hohe Präzision des Experiments und die Stabilität des Ergebnisses, selbst bei der Auswertung der zahlreichen Messungen. \\
 
 \noindent Der Fehler für das Messergebnis lautet wie folgt.

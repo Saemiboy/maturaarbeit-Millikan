@@ -1,4 +1,6 @@
 \chapter{Durchführung}\label{cha:durchfuehrung}
+In diesem Kapitel wird die komplette Umsetzung des Besuchs beschrieben. Sämtliche Schritte und Tricks zum Experimentieren, basieren auf dem Experiment Manual von PASCO Scientific \parencite{instructionManualHalogen}. Zuerst werden in \autoref{sec:vorbereitung} die Vorbereitungen erläutert, wie zum Beispiel der richtigen Auswahl der Umgebung oder das Messen des Kondensatorenabstandes. In \autoref{sec:optischesSystem} wird das optische System erklärt und in \autoref{sec:funktionen} die verschiedenen Funktionen der Schalter. Anschliessend wird in \autoref{sec:spannung} und \autoref{sec:Temperatur} beschrieben wie Spannung und Temperatur gemessen werden sollen. Der letzte Abschnitt (\autoref{sec:durchfuehrung}) behandelt das eigentliche Experimentieren, von der richtigen Tröpfchenwahl bis hin zur eigentlichen Berechnung.
+
 \section{Vorbereitung}\label{sec:vorbereitung}
 \subsection{Auswahl der Umgebung und Höhe}\label{sub:auswahlUmgebung}
 Für die Durchführung des Experiments sind verschiedene Vorbereitungen notwendig. Zunächst gilt es den geeignete Ort auszuwählen. Um das Experiment unter optimalen Bedingungen und mit hoher Präzision durchzuführen, sollte ein möglichst dunklen Raum gewählt werden. Für diese Arbeit stand die Dunkelkammer (Zimmer G10) der Kantonsschule am Burggraben zur Verfügung.
@@ -24,12 +26,10 @@ Mit dem horizontalen Einstellknopf der Halogenlampe wird das Licht auf der horiz
 Dieser Schalter dient als Spannungswechsler für die beiden Kondensatoren und ermöglicht es, die Richtung des elektrischen Feldes $E$ zu ändern. Der Schalter verfügt über drei verschiedene Positionen: 
 
 \begin{enumerate}
-	\item plates grounded
-	\item TOP PLATE $-$
-	\item TOP PLATE $+$
+	\item \textbf{plates grounded}: In dieser Position sind beide Kondensatoren ungeladen, so dass keine elektrische Kraft auf die Tröpfchen wirkt.
+	\item \textbf{TOP PLATE $-$}: Hier wird die obere Kondensatorenplatte geladen, wodurch das elektrische Feld nach unten gerichtet ist.
+	\item \textbf{TOP PLATE $+$}: Die Position wechselt die Richtung des elektrischen Feldes, in dem sie die obere Platte positiv lädt.
 \end{enumerate}
-
-\noindent In der ersten Position sind beide Kondensatoren ungeladen, sodass keine elektrische Kraft auf die Tröpfchen wirkt. Bei der nächsten wird die obere Platte negativ geladen, wodurch das elektrische Feld nach unten gerichtet ist. Die obere Platte ist positiv geladen, wenn der Schalter auf die letzte Position zeigt. Das erzeugt ein elektrisches Feld nach oben.
 
 \subsection{Der Ionisationsquelle Schalter}\label{sub:ionisationquelle}
 Der Schalter für die Ionisationsquelle verfügt auch über drei verschiedene Positionen: 
@@ -68,17 +68,13 @@ Bevor das Experiment starten kann, muss die gesamte Kammer vollständig zusammen
 \subsection{Tröpfchen einsprühen}\label{sub:tröpfchensprühen}
 Der erste Schritt besteht in der Vorbereitung des Ölsprühers. Dazu wird Mineralöl, mit bekannter Dichte (z.B. das zugehörige Squibb \#5597 Mineral Oil mit Dichte: $886 kg/m^3$), in den Zerstäuber gefüllt. Anschliessend wird geprüft, ob der Zerstäuber ordnungsgemäss Tröpfchen erzeugt. Dazu wird mehrmals schnell und mit leichtem Druck auf das Kissen des Zerstäubers gedrückt, bis auf einem Papier kleine Tröpfchen sichtbar werden.
 \begin{figure}[h]
-	\begin{minipage}[t]{0.45\textwidth}
 		\centering
-		\includegraphics[width=\textwidth]{bilder/pdf/zerstauberSpitze.pdf}
+		\includegraphics[scale=0.25]{bilder/pdf/zerstauberSpitze.pdf}
 		\caption{Korrekte Position von der Spitze zur Achse \parencite[7]{instructionManualHalogen}}
 		\label{fig:zerstauberSpitze}
-	\end{minipage}
-	\hfill
-	\begin{minipage}[t]{0.45\textwidth}
-		Die Spitze des Zerstäubers muss nach unten schauen. Genau 90° zur Achse. (siehe \autoref{fig:zerstauberSpitze})
-	\end{minipage} 
 \end{figure}
+
+\noindent Die Spitze des Zerstäubers muss nach unten schauen. Genau 90° zur Achse. (siehe \autoref{fig:zerstauberSpitze})
 
 Nach diesem Schritt muss der Schalter der Ionisationsquelle auf die \textbf{spray droplet} Position gestellt werden, um sicherzustellen, dass während des Einsprühens die Luft aus der Kammer entweichen kann. Da die Spitze des Zerstäubers nach unten zeigt, kann dieser nun direkt in das vorgesehene Loch auf dem Deckel des Gehäuses eingeführt werden. Nun sollte durch das Betrachtungsfernrohr geschaut werden, während gleichzeitig kräftig auf das Kissen des Zerstäubers gedrückt wird. Anschliessend werden mit schwächeren, kleineren Stössen die Tröpfchen ins Sichtfeld des Betrachters gebracht. Sobald eine Ansammlung von kleinen goldenen Punkten sichtbar wird, muss der Schalter auf die \textbf{OFF} Position zurückgesetzt werden.
 
