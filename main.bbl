@@ -19,6 +19,70 @@
 
 \refsection{0}
   \datalist[entry]{apa/apasortcite//global/global}
+    \entry{instructionManualHalogen}{manual}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a65d50f5cfafcdecbd611013431fe259}{%
+           family={Bishop},
+           familyi={B\bibinitperiod},
+           given={Sunny},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{organization}{1}{%
+        {PASCO scientific}%
+      }
+      \strng{namehash}{a65d50f5cfafcdecbd611013431fe259}
+      \strng{fullhash}{a65d50f5cfafcdecbd611013431fe259}
+      \strng{bibnamehash}{a65d50f5cfafcdecbd611013431fe259}
+      \strng{authorbibnamehash}{a65d50f5cfafcdecbd611013431fe259}
+      \strng{authornamehash}{a65d50f5cfafcdecbd611013431fe259}
+      \strng{authorfullhash}{a65d50f5cfafcdecbd611013431fe259}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{AP-8210}
+      \field{title}{Millikan Oil Drop Apparatus Instruction Manual}
+      \field{year}{2000}
+    \endentry
+    \entry{wiki:xxx}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=93d707cc77f037fd02e1c8cfa75317cf}{%
+           family={Commons},
+           familyi={C\bibinitperiod},
+           given={Wikimedia},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{fullhash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{bibnamehash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{authorbibnamehash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{authornamehash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{authorfullhash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Abgerufen am 08. Januar 2025, Lizenz: CC-BY-SA 4.0}
+      \field{title}{File:Millikan-experiment-floating-simple.svg --- Wikimedia Commons{,} the free media repository}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://commons.wikimedia.org/w/index.php?title=File:Millikan-experiment-floating-simple.svg&oldid=698327612
+      \endverb
+      \verb{url}
+      \verb https://commons.wikimedia.org/w/index.php?title=File:Millikan-experiment-floating-simple.svg&oldid=698327612
+      \endverb
+    \endentry
     \entry{fundamentum_mathe}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=061e320f60318828c116501dad82f35e}{%
@@ -73,6 +137,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{User Guide - pandas 2.2.3 documentation}
+      \field{note}{Abgerufen am 03. Januar 2025}
       \field{title}{User guide}
       \field{year}{2024}
       \verb{urlraw}
@@ -82,7 +147,139 @@
       \verb https://pandas.pydata.org/docs/user_guide/index.html
       \endverb
     \endentry
-    \entry{instructionManual}{book}{}
+    \entry{github_repo}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8bf1764576cc8bed9a6132cdd49c08d6}{%
+           family={ivo-bloechliger},
+           familyi={i\bibinithyphendelim b\bibinitperiod}}}%
+      }
+      \strng{namehash}{8bf1764576cc8bed9a6132cdd49c08d6}
+      \strng{fullhash}{8bf1764576cc8bed9a6132cdd49c08d6}
+      \strng{bibnamehash}{8bf1764576cc8bed9a6132cdd49c08d6}
+      \strng{authorbibnamehash}{8bf1764576cc8bed9a6132cdd49c08d6}
+      \strng{authornamehash}{8bf1764576cc8bed9a6132cdd49c08d6}
+      \strng{authorfullhash}{8bf1764576cc8bed9a6132cdd49c08d6}
+      \field{sortinit}{i}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Abgerufen am 30. August 2024}
+      \field{title}{matura-arbeit-vorlage-latex}
+      \field{year}{2024}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://github.com/techlabksbg/matura-arbeit-vorlage-latex
+      \endverb
+      \verb{url}
+      \verb https://github.com/techlabksbg/matura-arbeit-vorlage-latex
+      \endverb
+    \endentry
+    \entry{lernhelferElementarladungPhysik}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=25297a5c1d828f43c195f2d93361b49c}{%
+           family={Lernhelfer},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{25297a5c1d828f43c195f2d93361b49c}
+      \strng{fullhash}{25297a5c1d828f43c195f2d93361b49c}
+      \strng{bibnamehash}{25297a5c1d828f43c195f2d93361b49c}
+      \strng{authorbibnamehash}{25297a5c1d828f43c195f2d93361b49c}
+      \strng{authornamehash}{25297a5c1d828f43c195f2d93361b49c}
+      \strng{authorfullhash}{25297a5c1d828f43c195f2d93361b49c}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Abgerufen am 13. Oktober 2024}
+      \field{title}{Elementarladung}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.lernhelfer.de/schuelerlexikon/physik/artikel/elementarladung#
+      \endverb
+      \verb{url}
+      \verb https://www.lernhelfer.de/schuelerlexikon/physik/artikel/elementarladung#
+      \endverb
+    \endentry
+    \entry{PhysRevSeriesI.32.349}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=aa572ec2d21584668527460feea6f984}{%
+           family={Millikan},
+           familyi={M\bibinitperiod},
+           given={R.\bibnamedelimi A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{namehash}{aa572ec2d21584668527460feea6f984}
+      \strng{fullhash}{aa572ec2d21584668527460feea6f984}
+      \strng{bibnamehash}{aa572ec2d21584668527460feea6f984}
+      \strng{authorbibnamehash}{aa572ec2d21584668527460feea6f984}
+      \strng{authornamehash}{aa572ec2d21584668527460feea6f984}
+      \strng{authorfullhash}{aa572ec2d21584668527460feea6f984}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{4}
+      \field{journaltitle}{Phys. Rev. (Series I)}
+      \field{month}{4}
+      \field{note}{\url{https://authors.library.caltech.edu/records/c4xaf-k2f12/files/MILpr11b.pdf?download=1}, Abgerufen am 10. Januar 2025}
+      \field{title}{The Isolation of an Ion, a Precision Measurement of its Charge, and the Correction of Stokes's Law}
+      \field{volume}{32}
+      \field{year}{1911}
+      \field{pages}{349\bibrangedash 397}
+      \range{pages}{49}
+      \verb{doi}
+      \verb 10.1103/PhysRevSeriesI.32.349
+      \endverb
+      \verb{urlraw}
+      \verb https://link.aps.org/doi/10.1103/PhysRevSeriesI.32.349
+      \endverb
+      \verb{url}
+      \verb https://link.aps.org/doi/10.1103/PhysRevSeriesI.32.349
+      \endverb
+    \endentry
+    \entry{chatGPTMethodenBestimmung}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0523b13262b12c215d8009938f5c14f1}{%
+           family={OpenAI},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{fullhash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{bibnamehash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{authorbibnamehash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{authornamehash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{authorfullhash}{0523b13262b12c215d8009938f5c14f1}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Abgerufen am 13. Oktober 2024, Prompt: 2 weitere Methoden zur experimentellen Bestimmung der Elementarladung als der Millikan versuch}
+      \field{title}{ChatGPT 4.0}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://chatgpt.com/
+      \endverb
+      \verb{url}
+      \verb https://chatgpt.com/
+      \endverb
+    \endentry
+    \entry{instructionManual}{manual}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=77577daba570bb5ae7afdda1555db375}{%
            family={PASCO},
@@ -90,6 +287,9 @@
       }
       \list{language}{1}{%
         {en}%
+      }
+      \list{organization}{1}{%
+        {PASCO scientific}%
       }
       \strng{namehash}{77577daba570bb5ae7afdda1555db375}
       \strng{fullhash}{77577daba570bb5ae7afdda1555db375}
@@ -104,7 +304,8 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Millikan Oil Drop Apparatus, AP-8210A}
+      \field{edition}{AP-8210A}
+      \field{title}{Millikan Oil Drop Apparatus Instruction Manual}
       \field{year}{2000}
     \endentry
     \entry{dewiki:247237013}{misc}{}
@@ -126,7 +327,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{Online; Stand 13. Oktober 2024}
+      \field{note}{Abgerufen am 13. Oktober 2024}
       \field{title}{Robert Andrews Millikan --- Wikipedia, die freie Enzyklopädie}
       \field{year}{2024}
       \verb{urlraw}
@@ -134,10 +335,103 @@
       \endverb
       \verb{url}
       \verb https://de.wikipedia.org/w/index.php?title=Robert_Andrews_Millikan&oldid=249265456
+      \endverb
+    \endentry
+    \entry{enwiki:1263773841}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b6aea1a416c89509a7df1cbb69249cb6}{%
+           family={{Wikipedia contributors}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{fullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{bibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorbibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authornamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorfullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Abgerufen am 08. Januar 2025}
+      \field{title}{Quark --- {Wikipedia}{,} The Free Encyclopedia}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/w/index.php?title=Quark&oldid=1263773841
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/w/index.php?title=Quark&oldid=1263773841
       \endverb
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global}
+    \entry{instructionManualHalogen}{manual}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a65d50f5cfafcdecbd611013431fe259}{%
+           family={Bishop},
+           familyi={B\bibinitperiod},
+           given={Sunny},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{organization}{1}{%
+        {PASCO scientific}%
+      }
+      \strng{namehash}{a65d50f5cfafcdecbd611013431fe259}
+      \strng{fullhash}{a65d50f5cfafcdecbd611013431fe259}
+      \strng{bibnamehash}{a65d50f5cfafcdecbd611013431fe259}
+      \strng{authorbibnamehash}{a65d50f5cfafcdecbd611013431fe259}
+      \strng{authornamehash}{a65d50f5cfafcdecbd611013431fe259}
+      \strng{authorfullhash}{a65d50f5cfafcdecbd611013431fe259}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{AP-8210}
+      \field{title}{Millikan Oil Drop Apparatus Instruction Manual}
+      \field{year}{2000}
+    \endentry
+    \entry{wiki:xxx}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=93d707cc77f037fd02e1c8cfa75317cf}{%
+           family={Commons},
+           familyi={C\bibinitperiod},
+           given={Wikimedia},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{fullhash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{bibnamehash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{authorbibnamehash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{authornamehash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{authorfullhash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Abgerufen am 08. Januar 2025, Lizenz: CC-BY-SA 4.0}
+      \field{title}{File:Millikan-experiment-floating-simple.svg --- Wikimedia Commons{,} the free media repository}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://commons.wikimedia.org/w/index.php?title=File:Millikan-experiment-floating-simple.svg&oldid=698327612
+      \endverb
+      \verb{url}
+      \verb https://commons.wikimedia.org/w/index.php?title=File:Millikan-experiment-floating-simple.svg&oldid=698327612
+      \endverb
+    \endentry
     \entry{fundamentum_mathe}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=061e320f60318828c116501dad82f35e}{%
@@ -192,6 +486,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{User Guide - pandas 2.2.3 documentation}
+      \field{note}{Abgerufen am 03. Januar 2025}
       \field{title}{User guide}
       \field{year}{2024}
       \verb{urlraw}
@@ -201,7 +496,139 @@
       \verb https://pandas.pydata.org/docs/user_guide/index.html
       \endverb
     \endentry
-    \entry{instructionManual}{book}{}
+    \entry{github_repo}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8bf1764576cc8bed9a6132cdd49c08d6}{%
+           family={ivo-bloechliger},
+           familyi={i\bibinithyphendelim b\bibinitperiod}}}%
+      }
+      \strng{namehash}{8bf1764576cc8bed9a6132cdd49c08d6}
+      \strng{fullhash}{8bf1764576cc8bed9a6132cdd49c08d6}
+      \strng{bibnamehash}{8bf1764576cc8bed9a6132cdd49c08d6}
+      \strng{authorbibnamehash}{8bf1764576cc8bed9a6132cdd49c08d6}
+      \strng{authornamehash}{8bf1764576cc8bed9a6132cdd49c08d6}
+      \strng{authorfullhash}{8bf1764576cc8bed9a6132cdd49c08d6}
+      \field{sortinit}{i}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Abgerufen am 30. August 2024}
+      \field{title}{matura-arbeit-vorlage-latex}
+      \field{year}{2024}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://github.com/techlabksbg/matura-arbeit-vorlage-latex
+      \endverb
+      \verb{url}
+      \verb https://github.com/techlabksbg/matura-arbeit-vorlage-latex
+      \endverb
+    \endentry
+    \entry{lernhelferElementarladungPhysik}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=25297a5c1d828f43c195f2d93361b49c}{%
+           family={Lernhelfer},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{25297a5c1d828f43c195f2d93361b49c}
+      \strng{fullhash}{25297a5c1d828f43c195f2d93361b49c}
+      \strng{bibnamehash}{25297a5c1d828f43c195f2d93361b49c}
+      \strng{authorbibnamehash}{25297a5c1d828f43c195f2d93361b49c}
+      \strng{authornamehash}{25297a5c1d828f43c195f2d93361b49c}
+      \strng{authorfullhash}{25297a5c1d828f43c195f2d93361b49c}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Abgerufen am 13. Oktober 2024}
+      \field{title}{Elementarladung}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.lernhelfer.de/schuelerlexikon/physik/artikel/elementarladung#
+      \endverb
+      \verb{url}
+      \verb https://www.lernhelfer.de/schuelerlexikon/physik/artikel/elementarladung#
+      \endverb
+    \endentry
+    \entry{PhysRevSeriesI.32.349}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=aa572ec2d21584668527460feea6f984}{%
+           family={Millikan},
+           familyi={M\bibinitperiod},
+           given={R.\bibnamedelimi A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{namehash}{aa572ec2d21584668527460feea6f984}
+      \strng{fullhash}{aa572ec2d21584668527460feea6f984}
+      \strng{bibnamehash}{aa572ec2d21584668527460feea6f984}
+      \strng{authorbibnamehash}{aa572ec2d21584668527460feea6f984}
+      \strng{authornamehash}{aa572ec2d21584668527460feea6f984}
+      \strng{authorfullhash}{aa572ec2d21584668527460feea6f984}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{4}
+      \field{journaltitle}{Phys. Rev. (Series I)}
+      \field{month}{4}
+      \field{note}{\url{https://authors.library.caltech.edu/records/c4xaf-k2f12/files/MILpr11b.pdf?download=1}, Abgerufen am 10. Januar 2025}
+      \field{title}{The Isolation of an Ion, a Precision Measurement of its Charge, and the Correction of Stokes's Law}
+      \field{volume}{32}
+      \field{year}{1911}
+      \field{pages}{349\bibrangedash 397}
+      \range{pages}{49}
+      \verb{doi}
+      \verb 10.1103/PhysRevSeriesI.32.349
+      \endverb
+      \verb{urlraw}
+      \verb https://link.aps.org/doi/10.1103/PhysRevSeriesI.32.349
+      \endverb
+      \verb{url}
+      \verb https://link.aps.org/doi/10.1103/PhysRevSeriesI.32.349
+      \endverb
+    \endentry
+    \entry{chatGPTMethodenBestimmung}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0523b13262b12c215d8009938f5c14f1}{%
+           family={OpenAI},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{fullhash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{bibnamehash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{authorbibnamehash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{authornamehash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{authorfullhash}{0523b13262b12c215d8009938f5c14f1}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Abgerufen am 13. Oktober 2024, Prompt: 2 weitere Methoden zur experimentellen Bestimmung der Elementarladung als der Millikan versuch}
+      \field{title}{ChatGPT 4.0}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://chatgpt.com/
+      \endverb
+      \verb{url}
+      \verb https://chatgpt.com/
+      \endverb
+    \endentry
+    \entry{instructionManual}{manual}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=77577daba570bb5ae7afdda1555db375}{%
            family={PASCO},
@@ -209,6 +636,9 @@
       }
       \list{language}{1}{%
         {en}%
+      }
+      \list{organization}{1}{%
+        {PASCO scientific}%
       }
       \strng{namehash}{77577daba570bb5ae7afdda1555db375}
       \strng{fullhash}{77577daba570bb5ae7afdda1555db375}
@@ -223,7 +653,8 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Millikan Oil Drop Apparatus, AP-8210A}
+      \field{edition}{AP-8210A}
+      \field{title}{Millikan Oil Drop Apparatus Instruction Manual}
       \field{year}{2000}
     \endentry
     \entry{dewiki:247237013}{misc}{}
@@ -245,7 +676,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{Online; Stand 13. Oktober 2024}
+      \field{note}{Abgerufen am 13. Oktober 2024}
       \field{title}{Robert Andrews Millikan --- Wikipedia, die freie Enzyklopädie}
       \field{year}{2024}
       \verb{urlraw}
@@ -253,6 +684,35 @@
       \endverb
       \verb{url}
       \verb https://de.wikipedia.org/w/index.php?title=Robert_Andrews_Millikan&oldid=249265456
+      \endverb
+    \endentry
+    \entry{enwiki:1263773841}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b6aea1a416c89509a7df1cbb69249cb6}{%
+           family={{Wikipedia contributors}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{fullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{bibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorbibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authornamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorfullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Abgerufen am 08. Januar 2025}
+      \field{title}{Quark --- {Wikipedia}{,} The Free Encyclopedia}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/w/index.php?title=Quark&oldid=1263773841
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/w/index.php?title=Quark&oldid=1263773841
       \endverb
     \endentry
   \enddatalist

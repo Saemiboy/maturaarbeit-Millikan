@@ -1,19 +1,21 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'main.blg'
-[182] biber-MSWIN64:340> INFO - === 
-[225] Biber.pm:419> INFO - Reading 'main.bcf'
-[366] Biber.pm:979> INFO - Found 4 citekeys in bib section 0
-[386] Biber.pm:4419> INFO - Processing section 0
-[401] Biber.pm:4610> INFO - Looking for bibtex file 'literature.bib' for section 0
-[462] bibtex.pm:1713> INFO - LaTeX decoding ...
-[477] bibtex.pm:1519> INFO - Found BibTeX data source 'literature.bib'
-[541] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[541] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[541] Biber.pm:4239> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'de-DE'
-[541] Biber.pm:4245> INFO - No sort tailoring available for locale 'de-DE'
-[554] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[554] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[554] Biber.pm:4239> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'de-DE'
-[554] Biber.pm:4245> INFO - No sort tailoring available for locale 'de-DE'
-[564] bbl.pm:660> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[568] bbl.pm:763> INFO - Output to main.bbl
+[20] biber-darwin:340> INFO - === Sat Jan 11, 2025, 14:38:18
+[25] Biber.pm:419> INFO - Reading 'main.bcf'
+[51] Biber.pm:979> INFO - Found 11 citekeys in bib section 0
+[58] Biber.pm:4419> INFO - Processing section 0
+[61] Biber.pm:4610> INFO - Looking for bibtex file 'literature.bib' for section 0
+[61] bibtex.pm:1713> INFO - LaTeX decoding ...
+[65] bibtex.pm:1519> INFO - Found BibTeX data source 'literature.bib'
+[88] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[88] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[88] Biber.pm:4239> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'de-DE'
+[88] Biber.pm:4245> INFO - No sort tailoring available for locale 'de-DE'
+[95] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[95] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[95] Biber.pm:4239> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'de-DE'
+[95] Biber.pm:4245> INFO - No sort tailoring available for locale 'de-DE'
+[100] bbl.pm:660> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[102] bbl.pm:763> INFO - Output to main.bbl
+[102] Biber.pm:131> WARN - legacy month field 'Apr' in entry 'PhysRevSeriesI.32.349' is not an integer - this will probably not sort properly.
+[102] Biber.pm:133> INFO - WARNINGS: 1
